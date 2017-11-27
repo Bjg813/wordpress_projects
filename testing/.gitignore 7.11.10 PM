@@ -1,0 +1,6 @@
+debug.log
+upgrade/
+.DS_Store
+*.DS_Store
+*gruntfile.js
+*.gitignore
